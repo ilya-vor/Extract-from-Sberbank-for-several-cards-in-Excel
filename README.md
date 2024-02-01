@@ -3,6 +3,7 @@
 # Introduction
 I wrote this script because I wanted to analyze my budget in Excel.
 I also wrote a script that divides an Excel file into sheets into several files.
+I know it looks terrible... The main thing is working! :)
 
 # Description
 The following libraries are used in the work of this bot:
